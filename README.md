@@ -1,4 +1,5 @@
-# В терминале пишем Cd state после этого пишем python manage.py runserver
+# Инструкция 
+В терминале пишем Cd state после этого пишем python manage.py runserver
  |
  | 
  |
